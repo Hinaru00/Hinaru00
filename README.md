@@ -8,7 +8,7 @@ Me especializo en **análisis de sistemas** y **testing informático** dos área
 - **Análisis de Sistemas:** Experiencia en la evaluación y diseño de sistemas de software.
 - **Testing Informático:** En constante desarrollo de mis habilidades como tester.
 - **Metodologías Ágiles:** Certificada en **SCRUM** y con experiencia en la aplicación de principios ágiles en la gestión de proyectos.
-- **Gestión de Proyectos:** He liderado y gestionado proyectos de software, aplicando técnicas ágiles y tradicionales.
+- **Gestión de Proyectos:** He gestionado proyectos de software, aplicando técnicas ágiles y tradicionales.
 
 ## 📚 Cursos y Certificaciones
 
@@ -17,7 +17,7 @@ Me especializo en **análisis de sistemas** y **testing informático** dos área
 
 ## 🚀 Siempre Aprendiendo
 
-Soy una apasionada por el aprendizaje continuo. Actualmente, continúo estudiando para mejorar mis habilidades y prepararme para un rol en el área de control de calidad. Me encanta explorar nuevas tecnologías, perfeccionar mis conocimientos y aplicarlos en entornos de la vida real.
+Soy una apasionada por el aprendizaje continuo. Actualmente, sigo estudiando para mejorar mis habilidades y prepararme para un rol en el área de control de calidad. Me encanta explorar nuevas tecnologías, perfeccionar mis conocimientos y aplicarlos en entornos de la vida real.
 
 ## 🤝 ¡Colaboremos!
 
