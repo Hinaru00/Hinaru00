@@ -25,5 +25,5 @@ Estoy interesada en colaborar en proyectos relacionados con **testing** y **aná
 
 ---
 
-✉️ **Correo:** [betancourtclaudia285@gmail.com](mailto:betancourtclaudia285@gmail.com)  
+✉️ **Correo:** [<betancourtclaudia285@gmail.com>](<betancourtclaudia285@gmail.com>)  
 **LinkedIn:** [www.linkedin.com/in/claudia-betancourt-puga-b26803274](https://www.linkedin.com/in/claudia-betancourt-puga-b26803274)
