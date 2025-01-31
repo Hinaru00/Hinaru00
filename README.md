@@ -17,7 +17,7 @@ Me especializo en **análisis de sistemas** y **testing informático** dos área
 
 ## 🚀 Siempre Aprendiendo
 
-Soy una apasionada por el aprendizaje continuo. Actualmente, sigo estudiando para mejorar mis habilidades y prepararme para un rol en el área de control de calidad. Me encanta explorar nuevas tecnologías, perfeccionar mis conocimientos y aplicarlos en entornos de la vida real.
+Soy una apasionada por el aprendizaje continuo. Actualmente, sigo estudiando para mejorar mis habilidades y prepararme para un rol en el área de calidad. Me encanta explorar nuevas tecnologías, perfeccionar mis conocimientos y aplicarlos en entornos de la vida real.
 
 ## 🤝 ¡Colaboremos!
 
